@@ -1,0 +1,14 @@
+{
+    "extractedFields": {
+        "claim_type": "injury",
+        "involved_party": "Driver mentioned",
+        "description": "Not clearly mentioned in document"
+    },
+    "missingFields": [
+        "policy_number",
+        "estimated_damage",
+        "date_of_loss"
+    ],
+    "recommendedRoute": "Manual Review",
+    "reasoning": "Missing required fields: ['policy_number', 'estimated_damage', 'date_of_loss']"
+}
